@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning english  and docker 🐳<br>🎯 Goals: earn in dollar 💰 / live in a cold place ❄ and speak english 🚀<br>🎲 And ... i play 🎸 guitar and ♟ chess online</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Js  and docker 🐳<br>🎯 Goals: earn in dollar 💰 / live in a cold place ❄ and speak english 🚀<br>🎲 And ... i play 🎸 guitar and ♟ chess online</p>
 
 ###
 
